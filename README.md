@@ -1,5 +1,5 @@
 # Python for Data Science, AI & Development
-
+![Python Image](Images_for_readmes/python.jpeg)
 
 *After completing this course, you'll possess the basic knowledge of Python and acquire a good understanding of different data types. You’ll also learn to use lists and tuples, dictionaries, and Python sets. Additionally, you’ll acquire the concepts of condition and branching and will know how to implement loops, create functions, perform exception handling, and create objects. Furthermore, you’ll be proficient in reading and writing files and will be able to implement unique ways to collect data using APIs and web scraping. In addition to the module labs, you'll prove your skills in a peer-graded project and your overall knowledge with the final quiz.*
 
